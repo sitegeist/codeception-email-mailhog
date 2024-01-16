@@ -14,6 +14,10 @@
         {
             "name": "Eric Braun",
             "email": "eb@oqq.be"
+        },
+        {
+            "name": "Alexander Bohndorf",
+            "email": "bohndorf@sitegeist.de"
         }
     ],
     "require": {
