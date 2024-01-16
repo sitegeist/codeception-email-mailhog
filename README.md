@@ -6,7 +6,7 @@ This Codeception Module implements the required methods to test emails using the
 Through composer, require the package:
 ```
 "require-dev": {
-    "oqq/codeception-email-mailhog": "^2.0"
+    "sitegeist/codeception-email-mailhog": "^3"
 }
 ```
 Then turn it on in your Codeception suite yaml file
